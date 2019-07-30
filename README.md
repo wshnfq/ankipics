@@ -1,0 +1,2 @@
+# ankipics
+pic for anki
